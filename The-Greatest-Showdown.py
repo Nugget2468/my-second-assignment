@@ -8,3 +8,4 @@ elif number2 >= number1 and number2 >= number3:
     largest = number2
 else:
     largest = number3
+    print("The largest number is:", largest)
